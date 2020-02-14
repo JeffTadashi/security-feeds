@@ -1,0 +1,20 @@
+# Whitelist based on OISD's massive blacklist, for many everyday uses.
+geni.us
+*.geni.us
+squarespace.com
+*.squarespace.com
+redirect.viglink.com
+*.redirect.viglink.com
+www.anrdoezrs.net
+photos-us.bazaarvoice.com
+asm.sourceforge.net
+*.jt-0.net
+*.darknet.org.uk
+darknet.org.uk
+googleadservices.com
+*.googleadservices.com
+googletraveladservices.com
+*.googletraveladservices.com
+cdn.cookielaw.org
+ui.powerreviews.com
+ds-aksb-a.akamaihd.net
