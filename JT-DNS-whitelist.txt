@@ -1,4 +1,4 @@
-# Whitelist based on OISD's massive blacklist, for many everyday uses.
+# Whitelist based on OISD's massive blacklist, among others, for many everyday uses.
 geni.us
 *.geni.us
 squarespace.com
