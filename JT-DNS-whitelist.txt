@@ -18,3 +18,5 @@ googletraveladservices.com
 cdn.cookielaw.org
 ui.powerreviews.com
 ds-aksb-a.akamaihd.net
+*.intuit.com
+intuit.com
