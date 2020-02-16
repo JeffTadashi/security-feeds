@@ -1,13 +1,18 @@
 # Whitelist based on OISD's massive blacklist, among others, for many everyday uses.
 # 
 # 
-# 
-# 
+
+
 # Acompli.net and others is for Outlook on Android/iOS
 acompli.net
 *.acompli.net
 acompli.helpshift.com
 gate.hockeyapp.net
+
+# Netflix/Roku
+*.netflix.com
+*.roku.com
+
 # Other unsorted below
 geni.us
 *.geni.us
