@@ -3,10 +3,11 @@
 # 
 # 
 # 
-# Acompli.net is for Outlook on Android/iOS
+# Acompli.net and others is for Outlook on Android/iOS
 acompli.net
 *.acompli.net
 acompli.helpshift.com
+gate.hockeyapp.net
 # Other unsorted below
 geni.us
 *.geni.us
