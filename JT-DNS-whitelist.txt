@@ -12,6 +12,12 @@ gate.hockeyapp.net
 # Netflix/Roku
 *.netflix.com
 *.roku.com
+www-roku.mgo.com
+c-ls.mgo-images.com
+display.ravm.tv
+s-video.innovid.com
+api.rokutime.com
+os.fandango.com
 
 # Other unsorted below
 geni.us
