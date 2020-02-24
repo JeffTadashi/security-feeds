@@ -19,6 +19,10 @@ s-video.innovid.com
 api.rokutime.com
 os.fandango.com
 
+#Salesforce
+content.force.com
+*.content.force.com
+
 # Other unsorted below
 geni.us
 *.geni.us
