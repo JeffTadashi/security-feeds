@@ -2,6 +2,9 @@
 # 
 # 
 
+# Research.net surveys
+research.net
+*.research.net
 
 # Acompli.net and others is for Outlook on Android/iOS
 acompli.net
