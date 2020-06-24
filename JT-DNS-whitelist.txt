@@ -48,4 +48,6 @@ ui.powerreviews.com
 ds-aksb-a.akamaihd.net
 *.intuit.com
 intuit.com
+*.signatureroom.com
+signatureroom.com
 
