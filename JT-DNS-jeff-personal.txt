@@ -1,3 +1,0 @@
-# Personal blacklist for jeff's devices only
-
-news.google.com
